@@ -3,3 +3,4 @@ The Mandelbrot set is a famous two-dimensional fractal defined on the complex pl
 (from Wikipedia)
 
 This program here uses the matplotlib animation package and the math from mandelbrot set to produce a short second gif of the formation of the set. More work needed to be done.
+![Uploading mandelbrot.gif…]()
